@@ -1,0 +1,10 @@
+{
+    "name": "root/tenda",
+    "require": { "smarty/smarty": "3.1.31"
+	},
+    "autoload": {
+        "psr-4":{
+            "modelo\\": "src/"
+        }
+    }
+}
